@@ -1,0 +1,37 @@
+NTE forms for Squarespace
+
+These files currently send to the Salesforce sandbox. Use the final production
+files supplied by Steven when the project is ready to launch.
+
+1. Download the .txt file for the form you want and open it in a plain-text editor.
+2. Copy the entire file.
+3. In Squarespace, add a Code block to the page and choose HTML.
+4. Paste the code and keep Display Source switched off.
+5. Give the block the full available page width. Use a section without extra
+   padding if you want the same edge-to-edge layout as the supplied form.
+   Let the section grow to fit the form, including its expanding questions.
+6. Save, then open the published page while logged out to check it on desktop
+   and mobile. Check it both directly and through the site's navigation.
+
+Use one block per form. No separate CSS, JavaScript upload or Code Injection
+setup is required. Keep a copy of the .txt file so the whole block can be
+replaced when an updated version is supplied.
+
+The Squarespace plan must support JavaScript in Code blocks: Core, Plus,
+Advanced, or an eligible legacy Business/Commerce plan. Squarespace may hide
+custom scripts in the editor; the published, logged-out page is the check.
+For a version 7.0 site using Ajax navigation, turn Ajax loading off if the form
+works when opened directly but does not load through the site's navigation.
+
+The two logos continue to load from the existing GitHub site. The forms retain
+their existing Google-hosted font files and SharePoint upload link.
+
+The current thank-you pages and links remain at their existing GitHub addresses.
+Optional code blocks for both thank-you pages and the staff-form chooser are
+included. Steven will set the final page addresses before the production handover.
+
+Code block guidance:
+https://support.squarespace.com/hc/en-us/articles/206543167-Code-blocks
+
+Ajax navigation guidance:
+https://support.squarespace.com/hc/en-us/articles/115000253288-Ajax-loading-in-version-7-0

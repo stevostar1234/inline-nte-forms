@@ -1,0 +1,767 @@
+{
+  "verdict": "Pass within recorded local browser scope; actual Squarespace acceptance remains required",
+  "date": "2026-10-09",
+  "browser": "154.0.8037.98",
+  "sourceCommit": "48f850b85ae7643be6657e0045e1c15391e7e944",
+  "tagName": "nte-inline-641a7700130b",
+  "forms": [
+    {
+      "slug": "partner-sponsor-interest",
+      "screens": [
+        {
+          "width": 1440,
+          "state": "empty",
+          "widths": [
+            1440,
+            1440
+          ],
+          "heights": [
+            2512,
+            2512
+          ],
+          "diffPixels": 0,
+          "rawDiffPixels": 0,
+          "totalPixels": 3617280
+        },
+        {
+          "width": 390,
+          "state": "empty",
+          "widths": [
+            390,
+            390
+          ],
+          "heights": [
+            3331,
+            3331
+          ],
+          "diffPixels": 0,
+          "rawDiffPixels": 0,
+          "totalPixels": 1299090
+        }
+      ],
+      "errors": [],
+      "controls": 26,
+      "initialFont": [
+        {
+          "font": "Inter, \"Segoe UI\", Arial, sans-serif",
+          "ready": true
+        },
+        {
+          "font": "Inter, \"Segoe UI\", Arial, sans-serif",
+          "ready": true
+        }
+      ]
+    },
+    {
+      "slug": "exhibitor-interest",
+      "screens": [
+        {
+          "width": 1440,
+          "state": "empty",
+          "widths": [
+            1440,
+            1440
+          ],
+          "heights": [
+            2729,
+            2729
+          ],
+          "diffPixels": 0,
+          "rawDiffPixels": 0,
+          "totalPixels": 3929760
+        },
+        {
+          "width": 390,
+          "state": "empty",
+          "widths": [
+            390,
+            390
+          ],
+          "heights": [
+            3290,
+            3290
+          ],
+          "diffPixels": 0,
+          "rawDiffPixels": 0,
+          "totalPixels": 1283100
+        }
+      ],
+      "errors": [],
+      "controls": 23,
+      "initialFont": [
+        {
+          "font": "Inter, \"Segoe UI\", Arial, sans-serif",
+          "ready": true
+        },
+        {
+          "font": "Inter, \"Segoe UI\", Arial, sans-serif",
+          "ready": true
+        }
+      ]
+    },
+    {
+      "slug": "partner-sponsor-application",
+      "screens": [
+        {
+          "width": 1440,
+          "state": "empty",
+          "widths": [
+            1440,
+            1440
+          ],
+          "heights": [
+            5097,
+            5097
+          ],
+          "diffPixels": 0,
+          "rawDiffPixels": 0,
+          "totalPixels": 7339680
+        },
+        {
+          "width": 390,
+          "state": "empty",
+          "widths": [
+            390,
+            390
+          ],
+          "heights": [
+            6604,
+            6604
+          ],
+          "diffPixels": 0,
+          "rawDiffPixels": 0,
+          "totalPixels": 2575560
+        }
+      ],
+      "errors": [],
+      "controls": 74,
+      "initialFont": [
+        {
+          "font": "Inter, \"Segoe UI\", Arial, sans-serif",
+          "ready": true
+        },
+        {
+          "font": "Inter, \"Segoe UI\", Arial, sans-serif",
+          "ready": true
+        }
+      ]
+    },
+    {
+      "slug": "exhibitor-application",
+      "screens": [
+        {
+          "width": 1440,
+          "state": "empty",
+          "widths": [
+            1440,
+            1440
+          ],
+          "heights": [
+            4919,
+            4919
+          ],
+          "diffPixels": 0,
+          "rawDiffPixels": 0,
+          "totalPixels": 7083360
+        },
+        {
+          "width": 390,
+          "state": "empty",
+          "widths": [
+            390,
+            390
+          ],
+          "heights": [
+            6177,
+            6177
+          ],
+          "diffPixels": 0,
+          "rawDiffPixels": 0,
+          "totalPixels": 2409030
+        }
+      ],
+      "errors": [],
+      "controls": 93,
+      "initialFont": [
+        {
+          "font": "Inter, \"Segoe UI\", Arial, sans-serif",
+          "ready": true
+        },
+        {
+          "font": "Inter, \"Segoe UI\", Arial, sans-serif",
+          "ready": true
+        }
+      ]
+    },
+    {
+      "slug": "guest-registration",
+      "screens": [
+        {
+          "width": 1440,
+          "state": "empty",
+          "widths": [
+            1440,
+            1440
+          ],
+          "heights": [
+            1852,
+            1852
+          ],
+          "diffPixels": 0,
+          "rawDiffPixels": 0,
+          "totalPixels": 2666880
+        },
+        {
+          "width": 390,
+          "state": "empty",
+          "widths": [
+            390,
+            390
+          ],
+          "heights": [
+            2232,
+            2232
+          ],
+          "diffPixels": 0,
+          "rawDiffPixels": 0,
+          "totalPixels": 870480
+        }
+      ],
+      "errors": [],
+      "controls": 21,
+      "initialFont": [
+        {
+          "font": "Inter, \"Segoe UI\", Arial, sans-serif",
+          "ready": true
+        },
+        {
+          "font": "Inter, \"Segoe UI\", Arial, sans-serif",
+          "ready": true
+        }
+      ]
+    },
+    {
+      "slug": "partner-sponsor-staff-update",
+      "screens": [
+        {
+          "width": 1440,
+          "state": "empty",
+          "widths": [
+            1440,
+            1440
+          ],
+          "heights": [
+            2033,
+            2033
+          ],
+          "diffPixels": 0,
+          "rawDiffPixels": 0,
+          "totalPixels": 2927520
+        },
+        {
+          "width": 390,
+          "state": "empty",
+          "widths": [
+            390,
+            390
+          ],
+          "heights": [
+            2120,
+            2120
+          ],
+          "diffPixels": 0,
+          "rawDiffPixels": 0,
+          "totalPixels": 826800
+        }
+      ],
+      "errors": [],
+      "controls": 17,
+      "initialFont": [
+        {
+          "font": "Inter, \"Segoe UI\", Arial, sans-serif",
+          "ready": true
+        },
+        {
+          "font": "Inter, \"Segoe UI\", Arial, sans-serif",
+          "ready": true
+        }
+      ]
+    },
+    {
+      "slug": "exhibitor-staff-update",
+      "screens": [
+        {
+          "width": 1440,
+          "state": "empty",
+          "widths": [
+            1440,
+            1440
+          ],
+          "heights": [
+            2170,
+            2170
+          ],
+          "diffPixels": 0,
+          "rawDiffPixels": 0,
+          "totalPixels": 3124800
+        },
+        {
+          "width": 390,
+          "state": "empty",
+          "widths": [
+            390,
+            390
+          ],
+          "heights": [
+            2451,
+            2451
+          ],
+          "diffPixels": 0,
+          "rawDiffPixels": 0,
+          "totalPixels": 955890
+        }
+      ],
+      "errors": [],
+      "controls": 20,
+      "initialFont": [
+        {
+          "font": "Inter, \"Segoe UI\", Arial, sans-serif",
+          "ready": true
+        },
+        {
+          "font": "Inter, \"Segoe UI\", Arial, sans-serif",
+          "ready": true
+        }
+      ]
+    },
+    {
+      "slug": "heavy-vehicle-details",
+      "screens": [
+        {
+          "width": 1440,
+          "state": "empty",
+          "widths": [
+            1440,
+            1440
+          ],
+          "heights": [
+            3801,
+            3801
+          ],
+          "diffPixels": 0,
+          "rawDiffPixels": 0,
+          "totalPixels": 5473440
+        },
+        {
+          "width": 390,
+          "state": "empty",
+          "widths": [
+            390,
+            390
+          ],
+          "heights": [
+            4934,
+            4934
+          ],
+          "diffPixels": 0,
+          "rawDiffPixels": 0,
+          "totalPixels": 1924260
+        }
+      ],
+      "errors": [],
+      "controls": 38,
+      "initialFont": [
+        {
+          "font": "Inter, \"Segoe UI\", Arial, sans-serif",
+          "ready": true
+        },
+        {
+          "font": "Inter, \"Segoe UI\", Arial, sans-serif",
+          "ready": true
+        }
+      ]
+    },
+    {
+      "slug": "logo-upload",
+      "screens": [
+        {
+          "width": 1440,
+          "state": "empty",
+          "widths": [
+            1440,
+            1440
+          ],
+          "heights": [
+            1686,
+            1686
+          ],
+          "diffPixels": 0,
+          "rawDiffPixels": 0,
+          "totalPixels": 2427840
+        },
+        {
+          "width": 390,
+          "state": "empty",
+          "widths": [
+            390,
+            390
+          ],
+          "heights": [
+            2021,
+            2021
+          ],
+          "diffPixels": 0,
+          "rawDiffPixels": 0,
+          "totalPixels": 788190
+        }
+      ],
+      "errors": [],
+      "controls": 10,
+      "initialFont": [
+        {
+          "font": "Inter, \"Segoe UI\", Arial, sans-serif",
+          "ready": true
+        },
+        {
+          "font": "Inter, \"Segoe UI\", Arial, sans-serif",
+          "ready": true
+        }
+      ]
+    },
+    {
+      "slug": "volunteer-application",
+      "screens": [
+        {
+          "width": 1440,
+          "state": "empty",
+          "widths": [
+            1440,
+            1440
+          ],
+          "heights": [
+            5274,
+            5274
+          ],
+          "diffPixels": 0,
+          "rawDiffPixels": 0,
+          "totalPixels": 7594560
+        },
+        {
+          "width": 390,
+          "state": "empty",
+          "widths": [
+            390,
+            390
+          ],
+          "heights": [
+            7514,
+            7514
+          ],
+          "diffPixels": 0,
+          "rawDiffPixels": 0,
+          "totalPixels": 2930460
+        }
+      ],
+      "errors": [],
+      "controls": 78,
+      "initialFont": [
+        {
+          "font": "Inter, \"Segoe UI\", Arial, sans-serif",
+          "ready": true
+        },
+        {
+          "font": "Inter, \"Segoe UI\", Arial, sans-serif",
+          "ready": true
+        }
+      ]
+    }
+  ],
+  "supportingPages": [
+    {
+      "slug": "staff-update",
+      "screens": [
+        {
+          "width": 1440,
+          "state": "empty",
+          "widths": [
+            1440,
+            1440
+          ],
+          "heights": [
+            866,
+            866
+          ],
+          "diffPixels": 0,
+          "rawDiffPixels": 0,
+          "totalPixels": 1247040
+        },
+        {
+          "width": 390,
+          "state": "empty",
+          "widths": [
+            390,
+            390
+          ],
+          "heights": [
+            900,
+            900
+          ],
+          "diffPixels": 0,
+          "rawDiffPixels": 0,
+          "totalPixels": 351000
+        }
+      ],
+      "errors": [],
+      "controls": 0,
+      "initialFont": [
+        {
+          "font": "Inter, \"Segoe UI\", Arial, sans-serif",
+          "ready": true
+        },
+        {
+          "font": "Inter, \"Segoe UI\", Arial, sans-serif",
+          "ready": true
+        }
+      ]
+    },
+    {
+      "slug": "thank-you",
+      "screens": [
+        {
+          "width": 1440,
+          "state": "empty",
+          "widths": [
+            1440,
+            1440
+          ],
+          "heights": [
+            872,
+            872
+          ],
+          "diffPixels": 0,
+          "rawDiffPixels": 1440,
+          "totalPixels": 1255680
+        },
+        {
+          "width": 390,
+          "state": "empty",
+          "widths": [
+            390,
+            390
+          ],
+          "heights": [
+            730,
+            730
+          ],
+          "diffPixels": 0,
+          "rawDiffPixels": 0,
+          "totalPixels": 284700
+        }
+      ],
+      "errors": [],
+      "controls": 0,
+      "initialFont": [
+        {
+          "ready": true
+        },
+        {
+          "ready": true
+        }
+      ]
+    },
+    {
+      "slug": "volunteer-thank-you",
+      "screens": [
+        {
+          "width": 1440,
+          "state": "empty",
+          "widths": [
+            1440,
+            1440
+          ],
+          "heights": [
+            823,
+            823
+          ],
+          "diffPixels": 0,
+          "rawDiffPixels": 0,
+          "totalPixels": 1185120
+        },
+        {
+          "width": 390,
+          "state": "empty",
+          "widths": [
+            390,
+            390
+          ],
+          "heights": [
+            888,
+            888
+          ],
+          "diffPixels": 0,
+          "rawDiffPixels": 390,
+          "totalPixels": 346320
+        }
+      ],
+      "errors": [],
+      "controls": 0,
+      "initialFont": [
+        {
+          "font": "Inter, \"Segoe UI\", Arial, sans-serif",
+          "ready": true
+        },
+        {
+          "font": "Inter, \"Segoe UI\", Arial, sans-serif",
+          "ready": true
+        }
+      ]
+    }
+  ],
+  "staticChecks": [
+    {
+      "page": "exhibitor-application",
+      "canonicalSourceIdentical": true,
+      "engineByteIdenticalIncluded": true,
+      "configByteIdenticalIncluded": true,
+      "blockHashMatches": true,
+      "demoPanelsAbsent": true
+    },
+    {
+      "page": "exhibitor-interest",
+      "canonicalSourceIdentical": true,
+      "engineByteIdenticalIncluded": true,
+      "configByteIdenticalIncluded": true,
+      "blockHashMatches": true,
+      "demoPanelsAbsent": true
+    },
+    {
+      "page": "exhibitor-staff-update",
+      "canonicalSourceIdentical": true,
+      "engineByteIdenticalIncluded": true,
+      "configByteIdenticalIncluded": true,
+      "blockHashMatches": true,
+      "demoPanelsAbsent": true
+    },
+    {
+      "page": "guest-registration",
+      "canonicalSourceIdentical": true,
+      "engineByteIdenticalIncluded": true,
+      "configByteIdenticalIncluded": true,
+      "blockHashMatches": true,
+      "demoPanelsAbsent": true
+    },
+    {
+      "page": "heavy-vehicle-details",
+      "canonicalSourceIdentical": true,
+      "engineByteIdenticalIncluded": true,
+      "configByteIdenticalIncluded": true,
+      "blockHashMatches": true,
+      "demoPanelsAbsent": true
+    },
+    {
+      "page": "logo-upload",
+      "canonicalSourceIdentical": true,
+      "engineByteIdenticalIncluded": true,
+      "configByteIdenticalIncluded": true,
+      "blockHashMatches": true,
+      "demoPanelsAbsent": true
+    },
+    {
+      "page": "partner-sponsor-application",
+      "canonicalSourceIdentical": true,
+      "engineByteIdenticalIncluded": true,
+      "configByteIdenticalIncluded": true,
+      "blockHashMatches": true,
+      "demoPanelsAbsent": true
+    },
+    {
+      "page": "partner-sponsor-interest",
+      "canonicalSourceIdentical": true,
+      "engineByteIdenticalIncluded": true,
+      "configByteIdenticalIncluded": true,
+      "blockHashMatches": true,
+      "demoPanelsAbsent": true
+    },
+    {
+      "page": "partner-sponsor-staff-update",
+      "canonicalSourceIdentical": true,
+      "engineByteIdenticalIncluded": true,
+      "configByteIdenticalIncluded": true,
+      "blockHashMatches": true,
+      "demoPanelsAbsent": true
+    },
+    {
+      "page": "staff-update",
+      "canonicalSourceIdentical": true,
+      "engineByteIdenticalIncluded": true,
+      "configByteIdenticalIncluded": true,
+      "blockHashMatches": true,
+      "demoPanelsAbsent": true
+    },
+    {
+      "page": "thank-you",
+      "canonicalSourceIdentical": true,
+      "engineByteIdenticalIncluded": true,
+      "configByteIdenticalIncluded": true,
+      "blockHashMatches": true,
+      "demoPanelsAbsent": true
+    },
+    {
+      "page": "volunteer-application",
+      "canonicalSourceIdentical": true,
+      "engineByteIdenticalIncluded": true,
+      "configByteIdenticalIncluded": true,
+      "blockHashMatches": true,
+      "demoPanelsAbsent": true
+    },
+    {
+      "page": "volunteer-thank-you",
+      "canonicalSourceIdentical": true,
+      "engineByteIdenticalIncluded": true,
+      "configByteIdenticalIncluded": true,
+      "blockHashMatches": true,
+      "demoPanelsAbsent": true
+    }
+  ],
+  "capturedNativePosts": 42,
+  "realPostsSent": 0,
+  "runtimeErrors": [],
+  "multipleAndLifecycle": {
+    "count": 3,
+    "initialized": [
+      "true",
+      "true",
+      "true"
+    ],
+    "honeypots": [
+      1,
+      1,
+      1
+    ],
+    "independentBranches": [
+      false,
+      true
+    ],
+    "detachedDate": "2000-01-01",
+    "reconnectedDate": "2026-10-09",
+    "preservedName": "Preserved review name",
+    "afterReconnectHoneypots": 1,
+    "globalConfigAbsent": true,
+    "fontSheets": 1
+  },
+  "resolvedFindings": [
+    "Volunteer inherited text colour differed after merging html and body CSS; builder now preserves separate root/body levels and final 20 full-form screenshots match every RGBA pixel.",
+    "Canonical thank-you did not load Inter; builder preserves its fallback typography and does not let other blocks change it."
+  ],
+  "acceptedHarnessDifferences": [
+    "Three initial thank-you computed font-stack strings differed because absent Inter was removed explicitly; this preserves actual rendered fallback, with equal geometry and block content.",
+    "Short support full-viewport images initially included surrounding host background. Recaptured within block bounds; remaining raw differences occur only on the final fractional boundary row on two images."
+  ],
+  "limits": [
+    "No login, edit, save, or public visit on the client Squarespace site; plan/code-block sanitization/theme allocation/actual AJAX navigation remain site acceptance.",
+    "PNG URLs were routed to canonical local image bytes for controlled screenshot comparison. Root separately verifies public hosting.",
+    "No live Salesforce record submission, email send, payment, or SharePoint upload performed. Sandbox POST target, org ID, fields, and return targets were compared through local native-submit capture.",
+    "Chrome only in this independent run; mobile dimensions emulate 390px viewport and do not prove device-specific iOS/Android behavior.",
+    "Code blocks deliberately omit the nine demo email-preview panels. Surrounding Squarespace page chrome remains the host site."
+  ]
+}

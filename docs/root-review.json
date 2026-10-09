@@ -1,0 +1,229 @@
+{
+  "sourceCommit": "48f850b85ae7643be6657e0045e1c15391e7e944",
+  "branchChecks": 341,
+  "capturedPosts": 20,
+  "realSubmissions": 0,
+  "results": [
+    {
+      "slug": "exhibitor-application",
+      "visuals": [
+        {
+          "width": 1280,
+          "height": 4919,
+          "differingPixels": 0
+        },
+        {
+          "width": 375,
+          "height": 6252,
+          "differingPixels": 0
+        }
+      ],
+      "hostTheme": "matched",
+      "functional": "matched"
+    },
+    {
+      "slug": "exhibitor-interest",
+      "visuals": [
+        {
+          "width": 1280,
+          "height": 2729,
+          "differingPixels": 0
+        },
+        {
+          "width": 375,
+          "height": 3335,
+          "differingPixels": 0
+        }
+      ],
+      "hostTheme": "matched",
+      "functional": "matched"
+    },
+    {
+      "slug": "exhibitor-staff-update",
+      "visuals": [
+        {
+          "width": 1280,
+          "height": 2170,
+          "differingPixels": 0
+        },
+        {
+          "width": 375,
+          "height": 2477,
+          "differingPixels": 0
+        }
+      ],
+      "hostTheme": "matched",
+      "functional": "matched"
+    },
+    {
+      "slug": "guest-registration",
+      "visuals": [
+        {
+          "width": 1280,
+          "height": 1852,
+          "differingPixels": 0
+        },
+        {
+          "width": 375,
+          "height": 2232,
+          "differingPixels": 0
+        }
+      ],
+      "hostTheme": "matched",
+      "functional": "matched"
+    },
+    {
+      "slug": "heavy-vehicle-details",
+      "visuals": [
+        {
+          "width": 1280,
+          "height": 3801,
+          "differingPixels": 0
+        },
+        {
+          "width": 375,
+          "height": 4960,
+          "differingPixels": 0
+        }
+      ],
+      "hostTheme": "matched",
+      "functional": "matched"
+    },
+    {
+      "slug": "logo-upload",
+      "visuals": [
+        {
+          "width": 1280,
+          "height": 1686,
+          "differingPixels": 0
+        },
+        {
+          "width": 375,
+          "height": 2021,
+          "differingPixels": 0
+        }
+      ],
+      "hostTheme": "matched",
+      "functional": "matched"
+    },
+    {
+      "slug": "partner-sponsor-application",
+      "visuals": [
+        {
+          "width": 1280,
+          "height": 5097,
+          "differingPixels": 0
+        },
+        {
+          "width": 375,
+          "height": 6720,
+          "differingPixels": 0
+        }
+      ],
+      "hostTheme": "matched",
+      "functional": "matched"
+    },
+    {
+      "slug": "partner-sponsor-interest",
+      "visuals": [
+        {
+          "width": 1280,
+          "height": 2512,
+          "differingPixels": 0
+        },
+        {
+          "width": 375,
+          "height": 3395,
+          "differingPixels": 0
+        }
+      ],
+      "hostTheme": "matched",
+      "functional": "matched"
+    },
+    {
+      "slug": "partner-sponsor-staff-update",
+      "visuals": [
+        {
+          "width": 1280,
+          "height": 2033,
+          "differingPixels": 0
+        },
+        {
+          "width": 375,
+          "height": 2146,
+          "differingPixels": 0
+        }
+      ],
+      "hostTheme": "matched",
+      "functional": "matched"
+    },
+    {
+      "slug": "staff-update",
+      "visuals": [
+        {
+          "width": 1280,
+          "height": 900,
+          "differingPixels": 0
+        },
+        {
+          "width": 375,
+          "height": 1024,
+          "differingPixels": 0
+        }
+      ],
+      "hostTheme": "matched",
+      "functional": "supporting page"
+    },
+    {
+      "slug": "thank-you",
+      "visuals": [
+        {
+          "width": 1280,
+          "height": 900,
+          "differingPixels": 0
+        },
+        {
+          "width": 375,
+          "height": 900,
+          "differingPixels": 0
+        }
+      ],
+      "hostTheme": "matched",
+      "functional": "supporting page"
+    },
+    {
+      "slug": "volunteer-application",
+      "visuals": [
+        {
+          "width": 1280,
+          "height": 5274,
+          "differingPixels": 0
+        },
+        {
+          "width": 375,
+          "height": 7661,
+          "differingPixels": 0
+        }
+      ],
+      "hostTheme": "matched",
+      "functional": "matched"
+    },
+    {
+      "slug": "volunteer-thank-you",
+      "visuals": [
+        {
+          "width": 1280,
+          "height": 900,
+          "differingPixels": 0
+        },
+        {
+          "width": 375,
+          "height": 900,
+          "differingPixels": 0
+        }
+      ],
+      "hostTheme": "matched",
+      "functional": "supporting page"
+    }
+  ]
+}
