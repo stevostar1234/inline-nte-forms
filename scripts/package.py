@@ -7,4 +7,4 @@ with ZipFile(root / 'nte-squarespace-code-blocks.zip', 'w', ZIP_DEFLATED) as arc
     archive.write(root / 'INSTALL.txt', 'INSTALL.txt')
     for file in sorted((root / 'code-blocks').glob('*.txt')):
         archive.write(file, 'code-blocks/' + file.name)
-print('Packaged 13 code blocks and the installation guide.')
+print('Packaged 14 code blocks and the installation guide.')

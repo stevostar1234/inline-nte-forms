@@ -1,6 +1,6 @@
 # Inline NTE forms
 
-Ten complete forms for pasting into Squarespace HTML Code blocks, plus the staff-form chooser and two thank-you pages. Each `.txt` file contains its HTML, CSS, configuration and JavaScript.
+Eleven complete forms for pasting into Squarespace HTML Code blocks, plus the staff-form chooser and two thank-you pages. Each `.txt` file contains its HTML, CSS, configuration and JavaScript.
 
 **Current target: Mission Motorsport MMUAT Salesforce sandbox.**
 

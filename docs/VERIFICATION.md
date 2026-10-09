@@ -1,3 +1,7 @@
+# Delivery partner addition — 10 October 2026
+
+The maintained bundle now contains eleven forms and three supporting pages. The delivery partner form is generated from the same source, field configuration, submission engine and styling as the canonical preview. All fourteen blocks pass source/body/engine/configuration/URL/syntax/size parity checks. The original ten-form pixel comparison remains historical evidence; this addition does not claim that the actual client Squarespace installation has been tested. Existing installed blocks need replacing to receive updated configuration.
+
 # Verification — 9 October 2026
 
 ## Reviewed volunteer Code of Conduct refresh

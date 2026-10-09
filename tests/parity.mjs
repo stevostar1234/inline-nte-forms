@@ -16,7 +16,7 @@ assert.equal(build.engineSha256,sha(engine));
 assert.equal(build.configSha256,sha(config));
 assert.equal(build.mode,'sandbox');
 assert.equal(build.orgId,'00DAd00000A95Vl');
-assert.equal(build.pages.filter(p=>p.form).length,10);
+assert.equal(build.pages.filter(p=>p.form).length,11);
 for(const page of build.pages){
   const fragment=read('code-blocks/'+page.slug+'.txt');
   const original=read('source/'+page.slug+'.html');
@@ -42,4 +42,4 @@ for(const page of build.pages){
   assert.ok(preview.includes(fragment),page.slug+' preview is the exact delivered code block');
   console.log('PASS '+page.slug+' — content, engine, config, URLs, syntax, size and preview');
 }
-console.log('13 pages: source integrity and packaging parity passed.');
+console.log('14 pages: source integrity and packaging parity passed.');
