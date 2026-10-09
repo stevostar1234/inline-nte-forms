@@ -13,6 +13,10 @@ files supplied by Steven when the project is ready to launch.
 6. Save, then open the published page while logged out to check it on desktop
    and mobile. Check it both directly and through the site's navigation.
 
+Page titles and search visibility are set in Squarespace. Keep the staff chooser,
+both staff-detail pages, heavy-vehicle page, logo-upload page and NTE thank-you
+page excluded from search engines, as they are on the current site.
+
 Use one block per form. No separate CSS, JavaScript upload or Code Injection
 setup is required. Keep a copy of the .txt file so the whole block can be
 replaced when an updated version is supplied.

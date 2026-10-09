@@ -12,6 +12,8 @@ Custom elements initialise once, isolate duplicate IDs, and clean up/reconnect t
 
 The host site's header, footer, available width, section spacing and background outside the block remain part of that website. Match the supplied width and section spacing when comparing appearance. Squarespace's visual editor cannot edit the custom form's individual fields. Update the source and replace the entire block.
 
+Document-level titles, descriptions and search visibility belong in the Squarespace page settings. Preserve the source `noindex,nofollow` intent for `staff-update`, both staff detail pages, `heavy-vehicle-details`, `logo-upload` and `thank-you`; a Code block does not replace the site's head metadata.
+
 ## Documented differences from the demo website
 
 - Remove only `.email-preview-panel` sections; they are review links, not part of applicant submission.
