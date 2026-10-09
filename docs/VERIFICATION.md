@@ -1,5 +1,11 @@
 # Verification — 9 October 2026
 
+## Reviewed volunteer Code of Conduct refresh
+
+The volunteer form is refreshed from canonical commit `ef5e4c7921e72995213fa21d19f020f60c90cd72`. It contains the approved October 2026 policy, eight source links and v4 acknowledgement. Draft/proposed labels, paper-signature fields and the implementation note are excluded. The engine, configuration, styles and other twelve blocks retain their preceding bytes. The ZIP includes the replacement volunteer block.
+
+All 13 packaging parity checks pass. The canonical and inline volunteer reader pass exact text/link checks at 1280px and 375px, including disabled/unchecked initial state, partial-scroll blocking, end-of-document unlock, explicit acknowledgement, October version, reset and no horizontal overflow. No runtime error or external POST occurred. The existing form-engine suite passes 152 checks/21,196 combinations. The new volunteer block is 126,886 bytes. These focused checks supplement the dated initial two-reviewer report below; that full independent review was not repeated for this text replacement. Installed client blocks must be replaced to receive the update.
+
 **Pass for the recorded source and local browser comparisons. Actual client Squarespace installation remains to be checked.** No Salesforce submission, email, payment or SharePoint upload was made.
 
 Baseline: canonical public NTE forms commit `48f850b85ae7643be6657e0045e1c15391e7e944`. The copied HTML, engine, configuration, styles and PNGs match that baseline. Every delivered block embeds the unchanged engine and configuration; the preview includes the exact delivered block.
