@@ -1,4 +1,4 @@
-<nte-inline-699c7bf417aa data-nte-page="exhibitor-application" data-nte-return-url="https://stevostar1234.github.io/nte27-web-to-lead-demo/thank-you.html" data-nte-inter lang="en-GB" style="display:block!important;width:100%!important;min-width:0!important;margin:0!important;padding:0!important;border:0!important;text-align:left!important;">
+<nte-inline-f11e36c8b8f2 data-nte-page="exhibitor-application" data-nte-return-url="https://stevostar1234.github.io/nte27-web-to-lead-demo/thank-you.html" data-nte-inter lang="en-GB" style="display:block!important;width:100%!important;min-width:0!important;margin:0!important;padding:0!important;border:0!important;text-align:left!important;">
 <template data-nte-content>
 <style>:host { all: initial; display: block; }
 .nte-inline-root { all: initial; display: block; font-size: 16px; direction: ltr; text-align: left; }
@@ -382,11 +382,11 @@ input[aria-invalid="true"], select[aria-invalid="true"], textarea[aria-invalid="
 </div></div>
 </template>
 <p data-nte-ready role="status">This form could not load. Please refresh the page or contact <a href="mailto:nte@missioncommunity.org">nte@missioncommunity.org</a>.</p>
-</nte-inline-699c7bf417aa>
+</nte-inline-f11e36c8b8f2>
 <script>
 (function (nativeWindow, nativeDocument) {
   "use strict";
-  var tagName = "nte-inline-699c7bf417aa";
+  var tagName = "nte-inline-f11e36c8b8f2";
   if (nativeWindow.customElements.get(tagName)) return;
 
   class NTEInlineForm extends HTMLElement {
@@ -1543,14 +1543,22 @@ window.NTE27_CONFIG = window.NTE_CONFIG;
         if (event.target && event.target.type === "date") configureFieldConstraints();
       });
     });
-    if (window.addEventListener) window.addEventListener("pageshow", function () {
+    if (window.addEventListener) window.addEventListener("pageshow", function (event) {
       configureFieldConstraints();
       document.querySelectorAll("form[data-web-to-lead]").forEach(function (form) {
-        restoreSubmitControls(form);
+        var wasSubmitting = form.dataset.submitting === "true";
+        if (wasSubmitting && !event.persisted) return;
         clearRuleErrors(form);
         try {
+          // Returning to a submitted application starts a new submission. A
+          // synchronous transport failure has already cleared the busy state.
+          var bookingField = form.querySelector('input[type="hidden"][data-sf-field="Booking_Reference__c"]');
+          if (wasSubmitting && bookingField && !form.querySelector('[data-sf-field="Target_Booking_Reference__c"]')) {
+            bookingField.value = bookingReference();
+          }
           populateSystemFields(form);
           syncFormState(form);
+          restoreSubmitControls(form);
         } catch (error) {
           setStatus(form, "This form is currently unavailable. Reload the page and try again.", "error");
         }
